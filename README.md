@@ -1,16 +1,15 @@
-## Hi there 👋
+# Jiaqing Xu
 
-<!--
-**kevinxu2777/kevinxu2777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical tools with Python, JavaScript, and AI-assisted development workflows.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automation and data workflows
+- Web applications and local dashboards
+- Developer tooling and AI agents
+
+## Selected work
+
+- [Agents](https://github.com/kevinxu2777/Agents) - experiments and reusable agent workflows
+
+This profile is being consolidated from my previous academic GitHub account.
