@@ -2,7 +2,7 @@
 
 Computer Science graduate and junior system administrator focused on enterprise IT support, Python automation, local dashboards, and practical data workflows.
 
-[Download PDF](Jiaqing_Xu_Resume.pdf) | [Download DOCX](Jiaqing_Xu_Resume.docx) | [GitHub](https://github.com/kevinxu2777)
+[Download DOCX](Jiaqing_Xu_Resume.docx) | [GitHub](https://github.com/kevinxu2777)
 
 ## Highlights
 
